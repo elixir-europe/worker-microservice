@@ -11,6 +11,6 @@ rabbitMQ:
     workflowCommandsExchange: commands.v1.workflow.exchange
     useSsl: true
     sslKeypassphrasePassword: keyUser
-    sslTrustpassphrasePassword: ihatejordi
+    sslTrustpassphrasePassword: iloverainbows
     sslKeypath: /certs/keycert.p12
     sslTrustpath: /certs/store
